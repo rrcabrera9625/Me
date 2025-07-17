@@ -90,3 +90,6 @@
 ## Contact:
 
 [![Email](https://img.shields.io/badge/rrcabrera9625@protonmail.com-email-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:rrcabrera9625@protonmail.com)
+
+<!-- Thanks for the idea: https://github.com/INGCapaDev 😉-->
+
