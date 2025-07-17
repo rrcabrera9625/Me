@@ -16,7 +16,7 @@
 
 > "Discipline equals freedom." — Jocko Willink
 
-### Web Developer
+### Backend Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=rrcabrera9625&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 ## Technologies:
